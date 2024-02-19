@@ -1,0 +1,15 @@
+artifact_uri: file:///home/billy/Documents/ML_Projects/customer_satisfaction/mlruns/0/624ff68d60ea435b91f67558df1f1ac3/artifacts
+end_time: 1704125742451
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 624ff68d60ea435b91f67558df1f1ac3
+run_name: bouncy-squirrel-404
+run_uuid: 624ff68d60ea435b91f67558df1f1ac3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704125741075
+status: 3
+tags: []
+user_id: billy

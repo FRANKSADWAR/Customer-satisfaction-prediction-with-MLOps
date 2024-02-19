@@ -1,0 +1,15 @@
+artifact_uri: file:///home/billy/Documents/ML_Projects/customer_satisfaction/mlruns/0/dd76310dd2bf487a8888424dfdb4a21b/artifacts
+end_time: 1704125740457
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd76310dd2bf487a8888424dfdb4a21b
+run_name: intelligent-flea-597
+run_uuid: dd76310dd2bf487a8888424dfdb4a21b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704125736828
+status: 3
+tags: []
+user_id: billy
