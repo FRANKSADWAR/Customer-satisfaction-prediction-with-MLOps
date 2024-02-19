@@ -32,6 +32,11 @@ This will help the company adjust their business modes, i.e providing orders in 
 
 
 - Create the virtual environment for this project
+
+```
+pip install -r requirements.txt
+```
+
 ```
 conda create -n customer_satisfaction python=3.9.10 anaconda
 ```
