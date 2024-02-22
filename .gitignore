@@ -1,4 +1,4 @@
 ## Do not add thesef files
 
 .ipynb_checkpoints/
-__pycache__/ls
+__pycache__/
