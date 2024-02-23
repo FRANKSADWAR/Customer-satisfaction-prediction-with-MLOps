@@ -23,11 +23,14 @@ This is Brazil's Olist e-commerce public dataaset made at Olist Store. It has in
 
 The dataset allows viewing and combining multiple dimensions such as order status, price, payment and freight to customer locations, product attributes and finally reviews written by customers.
 
-## Area of interest: 
 The area of interest is the review score. Can the company be able to know the reviews provided by the customers based on the way the products were
 delivered to them ?
 This will help the company adjust their business modes, i.e providing orders in due time. This in turn leads to customer retention. 
 
+## Tools used
+MlFlow
+
+ZenML
 
 
 
